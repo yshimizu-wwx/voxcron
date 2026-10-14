@@ -11,7 +11,7 @@
 
 ## インストール
 
-1. [最新のリリース](https://github.com/yshimizu-wwx/voxcron/releases/latest) から `Voxcron-Setup-x.y.z.exe` をダウンロードして実行します
+1. [Voxcron のページ](https://wayfinderworx.com/voxcron?from=github) でメールアドレスを登録すると、インストーラー（`Voxcron-Setup-x.y.z.exe`）のダウンロードが始まります。ダウンロードしたファイルを実行してください
 2. 「WindowsによってPCが保護されました」と出たら「詳細情報」→「実行」を押します（コード署名をしていないため）
 3. 初回は設定画面が開きます。Groq の APIキー（無料）を作って貼り付けてください
 
